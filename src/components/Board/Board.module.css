@@ -1,0 +1,17 @@
+.Board {
+    width: 320px;
+    margin: auto;
+    height: 450px;
+    overflow: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    background-color: #b3b3b3;
+}
+
+.divTable{
+	display: table;
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+}

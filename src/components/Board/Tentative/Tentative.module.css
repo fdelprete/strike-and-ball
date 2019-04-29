@@ -1,0 +1,74 @@
+.Tentative {
+	width: 270px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 3px 10px;
+}
+
+.Result {
+	width: 40px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	padding: 3px 10px;
+}
+
+.Strike {
+	height: 15px;
+	width: 15px;
+	background-color: black;
+	border-radius: 50%;
+	display: flex;
+	margin: 0 0px;
+}
+.Ball {
+	height: 15px;
+	width: 15px;
+	background-color: white;
+	border-radius: 50%;
+	display: flex;
+	margin: 0 0px;
+}
+.Nothing {
+	height: 15px;
+	width: 15px;
+	line-height: 15px;
+	background-color:  #b3b3b3;
+	border-radius: 50%;
+	display: flex;
+	margin: 0 0px;
+	text-align: center;
+	justify-content: center;
+}
+  
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 1px solid #999999;
+	width: 30px;
+	display: inline-block;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+

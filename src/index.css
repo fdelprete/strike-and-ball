@@ -12,3 +12,108 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.CurrPos {	
+  border: 3px solid black !important;
+}
+
+.Dot_0 {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  border: 3px solid red;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_1 {
+  height: 25px;
+  width: 25px;
+  background-color: blue;
+  border: 3px solid blue;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_2 {
+  height: 25px;
+  width: 25px;
+  background-color: yellow;
+  border: 3px solid yellow;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_3 {
+  height: 25px;
+  width: 25px;
+  background-color: green;
+  border: 3px solid green;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_4 {
+  height: 25px;
+  width: 25px;
+  background-color: brown;
+  border: 3px solid brown;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_5 {
+  height: 25px;
+  width: 25px;
+  background-color: grey;
+  border: 3px solid grey;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_6 {
+  height: 25px;
+  width: 25px;
+  background-color: orange;
+  border: 3px solid orange;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_7 {
+  height: 25px;
+  width: 25px;
+  background-color: violet;
+  border: 3px solid violet;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_8 {
+  height: 25px;
+  width: 25px;
+  background-color: cyan;
+  border: 3px solid cyan;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.Dot_9 {
+  height: 25px;
+  width: 25px;
+  background-color: pink;
+  border: 3px solid pink;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}

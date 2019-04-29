@@ -1,0 +1,47 @@
+.NewTentative {
+	width: 270px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 3px 10px;
+}
+
+.Check {
+	display: flex;
+	padding: 3px 10px;
+	width: 40px;
+}
+.divTableRow {
+	display: table-row;
+}
+
+.CurrPos {	
+	background-color: #EEE;
+}
+
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+    border: 1px solid #999999;
+	display: inline-block;
+	width: 30px;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
