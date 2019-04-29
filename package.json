@@ -2,7 +2,7 @@
   "name": "strike-and-bull",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/fdelprete/strike-and-ball",
+  "homepage": "https://fdelprete.github.io/sb/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
