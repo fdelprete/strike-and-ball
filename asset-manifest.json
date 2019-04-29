@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/strike-and-ball/static/css/main.583d9439.chunk.css",
-    "main.js": "/strike-and-ball/static/js/main.4b226b5a.chunk.js",
-    "main.js.map": "/strike-and-ball/static/js/main.4b226b5a.chunk.js.map",
+    "main.js": "/strike-and-ball/static/js/main.6fca472e.chunk.js",
+    "main.js.map": "/strike-and-ball/static/js/main.6fca472e.chunk.js.map",
     "runtime~main.js": "/strike-and-ball/static/js/runtime~main.7ebbd3df.js",
     "runtime~main.js.map": "/strike-and-ball/static/js/runtime~main.7ebbd3df.js.map",
     "static/js/2.ca038051.chunk.js": "/strike-and-ball/static/js/2.ca038051.chunk.js",
     "static/js/2.ca038051.chunk.js.map": "/strike-and-ball/static/js/2.ca038051.chunk.js.map",
     "index.html": "/strike-and-ball/index.html",
-    "precache-manifest.3f8b633f233f40050febe2492ecb8c71.js": "/strike-and-ball/precache-manifest.3f8b633f233f40050febe2492ecb8c71.js",
+    "precache-manifest.ebaecc8b88884f19e2a7feff218da486.js": "/strike-and-ball/precache-manifest.ebaecc8b88884f19e2a7feff218da486.js",
     "service-worker.js": "/strike-and-ball/service-worker.js",
     "static/css/main.583d9439.chunk.css.map": "/strike-and-ball/static/css/main.583d9439.chunk.css.map"
   }

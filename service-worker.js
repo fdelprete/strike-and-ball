@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/strike-and-ball/precache-manifest.3f8b633f233f40050febe2492ecb8c71.js"
+  "/strike-and-ball/precache-manifest.ebaecc8b88884f19e2a7feff218da486.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a388eae577dab7f9643db0fee96476a5",
+    "revision": "c1048ad62acb7e9b0f9980b1655c65c6",
     "url": "/strike-and-ball/index.html"
   },
   {
-    "revision": "28806eec034fa4d276d8",
+    "revision": "ac060950d357fe3f34b6",
     "url": "/strike-and-ball/static/css/main.583d9439.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/strike-and-ball/static/js/2.ca038051.chunk.js"
   },
   {
-    "revision": "28806eec034fa4d276d8",
-    "url": "/strike-and-ball/static/js/main.4b226b5a.chunk.js"
+    "revision": "ac060950d357fe3f34b6",
+    "url": "/strike-and-ball/static/js/main.6fca472e.chunk.js"
   },
   {
     "revision": "f2d516de9c9c41212faf",
